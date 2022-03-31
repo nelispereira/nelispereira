@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Tribunal de Contas do Estado do Amapá / Nelisoftware
+- 🌱 I’m currently learning NestJS
+- 😄 Pronouns: 
+- ⚡ Fun fact: I'm crazy =)
+
 
 <!--
 **nelispereira/nelispereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
