@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Tribunal de Contas do Estado do Amapá / Nelisoftware
 - 🌱 I’m currently learning NestJS
+- 💬 Ask me about anything
 - ⚡ Fun fact: I'm crazy =)
 
 
